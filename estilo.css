@@ -1,6 +1,6 @@
 /*  CSS: Proyecto Digital School Branch */
-/*  Fecha Modificacion: 28-06-15       */
-/*  ******************************     */
+/*  Fecha Modificacion: 28-06-15 20:36 */
+/*  ******************************    */
 
 /*---Quinteiro Leila--- */
 
@@ -15,7 +15,7 @@ p {
 
 .wrapper {
 	width: 80%;
-	margin: auto;
+	margin: auto; 
 	overflow: hidden;
 }
 
